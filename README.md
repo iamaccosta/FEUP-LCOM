@@ -7,5 +7,5 @@ Repository for educational purpose only.
 - __My Grade:__ 
 
 ## ES project
-- [Project](project/) 
+- [Project](proj/doc/report.pdf) 
 - __Project Grade:__ 
